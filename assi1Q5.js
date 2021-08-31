@@ -10,7 +10,4 @@ if (cost < 50) {
 console.log("your down Payment is " + 5000 + 0.10 * cost - 200);
 
 
-let amount = promote("Please enter the amount");
-let rate = promote("Please enter the interest rate");
-let yrs = promote("number of years");
 
